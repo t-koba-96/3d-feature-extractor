@@ -1,0 +1,12 @@
+# files
+.ipynb_checkpoints
+__pycache__
+.vscode
+.DS_Store
+
+# weights
+*.prm
+*.pth
+
+# other
+kinetics_subset
